@@ -1,0 +1,8 @@
+npm install -g bower
+
+REM already done, no git on VMs
+npm install
+
+npm start
+npm test
+REM http://localhost:8000/app

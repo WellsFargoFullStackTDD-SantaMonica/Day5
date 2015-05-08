@@ -1,0 +1,9 @@
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\bin\Debug\AdventureWorksSQLServer.Tests.dll.config
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.ufnGetCustomerSalesCount.resources
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.csproj.GenerateResource.Cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer.Tests\obj\Debug\AdventureWorksSQLServer.Tests.uspGetEmployeeManagersTests.resources

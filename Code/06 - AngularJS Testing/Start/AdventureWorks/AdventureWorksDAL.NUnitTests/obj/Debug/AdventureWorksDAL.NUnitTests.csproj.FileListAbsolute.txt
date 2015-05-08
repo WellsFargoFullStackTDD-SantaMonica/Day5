@@ -1,0 +1,11 @@
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.NUnitTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.NUnitTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\obj\Debug\AdventureWorksDAL.NUnitTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.NUnitTests\bin\Debug\EntityFramework.xml

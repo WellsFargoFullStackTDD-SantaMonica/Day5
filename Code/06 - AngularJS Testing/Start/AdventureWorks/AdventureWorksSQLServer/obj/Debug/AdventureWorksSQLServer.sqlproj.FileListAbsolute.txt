@@ -1,0 +1,6 @@
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dacpac
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\bin\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksSQLServer\obj\Debug\AdventureWorksSQLServer.sqlprojResolveAssemblyReference.cache

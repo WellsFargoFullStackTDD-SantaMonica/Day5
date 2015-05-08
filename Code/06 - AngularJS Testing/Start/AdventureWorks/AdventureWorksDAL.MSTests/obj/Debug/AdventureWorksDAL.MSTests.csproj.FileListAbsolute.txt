@@ -1,0 +1,17 @@
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.pdb
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\GitHub\Day2\Code\01 - .NET Testing\Start\AdventureWorks\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.csprojResolveAssemblyReference.cache
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\obj\Debug\AdventureWorksDAL.MSTests.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\EntityFramework.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.pdb
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\EntityFramework.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\NSubstitute.dll
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\NSubstitute.xml
+C:\Users\Geek\Documents\Visual Studio 2013\Projects\AdventureWorks-Demo\AdventureWorksDAL.MSTests\bin\Debug\AdventureWorksDAL.MSTests.dll.config

@@ -1,0 +1,46 @@
+        httpMock.expectJSONP(
+          "http://ergast.com/api/f1/2013/driverStandings.json?callback=JSON_CALLBACK").respond(
+          {
+              "MRData": {
+                  "StandingsTable": {
+                      "StandingsLists": [{
+                          "DriverStandings": [
+                            {
+                                "Driver": {
+                                    "givenName": 'Sebastian',
+                                    "familyName": 'Vettel'
+                                },
+                                "points": "397",
+                                "nationality": "German",
+                                "Constructors": [
+                                    { "name": "Red Bull" }
+                                ]
+                            },
+                            {
+                                "Driver": {
+                                    "givenName": 'Fernando',
+                                    "familyName": 'Alonso'
+                                },
+                                "points": "242",
+                                "nationality": "Spanish",
+                                "Constructors": [
+                                    { "name": "Ferrari" }
+                                ]
+                            },
+                            {
+                                "Driver": {
+                                    "givenName": 'Mark',
+                                    "familyName": 'Webber'
+                                },
+                                "points": "199",
+                                "nationality": "Australian",
+                                "Constructors": [
+                                    { "name": "Red Bull" }
+                                ]
+                            }
+                          ]
+                      }]
+                  }
+              }
+          }
+        );
